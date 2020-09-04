@@ -1,0 +1,8 @@
+{
+  "name": "node-autofix",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:moulik-deepsource/node-autofix.git",
+  "author": "Moulik Aggarwal <qwertymoulik@gmail.com>",
+  "license": "MIT"
+}
